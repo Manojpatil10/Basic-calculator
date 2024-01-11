@@ -1,0 +1,31 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    background-color: #353826;
+}
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 55px;
+    height: 55px;
+    font-size: 18px;
+}
+.row{
+    margin: 8px 0;
+}
+.row input{
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+#A1,#A2,#A3,#A4,#A5,#A6,#A7,#A8,#A9,#A10{
+    background-color: rgb(37, 126, 164);
+}
+#B1,#B2,#B3,#B4,#B5,#B6,#B7,#B8,#B9{
+    background-color: beige;
+}
